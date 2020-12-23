@@ -10,3 +10,13 @@ You can reach me on [LinkedIn](https://www.linkedin.com/in/lokoneshnikova)
 
 [Twitch](https://github.com/oklena/Live_Stream_Data_Analysis) - This project focuses on predicting a number of new followers for live streaming channels using machine learning on Twitch.
 
+# Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oklena&theme=buefy)
+
+# Weekly Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=oklena&show_icons=true&theme=buefy)
+
+![](https://visitor-badge.laobi.icu/badge?page_id=oklena.oklena)
+[![Github](https://img.shields.io/github/followers/oklena?label=Follow&style=social)](https://github.com/oklena)
